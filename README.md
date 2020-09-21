@@ -1,4 +1,6 @@
-![KALI_LOGO](https://upload.wikimedia.org/wikipedia/commons/7/7a/Kali_Linux_Logo.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Kali_Linux_Logo.png" />
+</p>
 
 # NHLite
 O NH Lite é basicamente o Projeto Kali NetHunter traduzido e lite, Kali NetHunter pesa 7GB enquanto o NHLite pesa somente 2.4GB
