@@ -47,6 +47,7 @@ Essa Edição do projeto acompanha com sigo varias IDE's e Editores de Texto, tu
 ## NH Lite PROGRAMMER EDITION
 
       $ curl -LO https://raw.githubusercontent.com/Luc4sD3v/NHLite/master/NHPROGRAMMER/NHLite.sh
+      $ chmod +x NHLite.sh
       $ bash NHLiteProgrammerEdition.sh
 
 # Créditos
