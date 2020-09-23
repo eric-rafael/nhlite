@@ -3,7 +3,7 @@
 </p>
 
 # NHLite
-O NH Lite é basicamente o Projeto Kali NetHunter traduzido e lite, Kali NetHunter pesa de 7 à 9GB enquanto o NHLite pesa somente 3.4GB
+O NH Lite é basicamente o Projeto Kali NetHunter traduzido e lite, Kali NetHunter pesa de 7 à 8GB enquanto o NHLite pesa somente 3.4GB
 
 
 # O QUE É O NETHUNTER?
