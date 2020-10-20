@@ -12,7 +12,7 @@ O NH Lite é basicamente o Projeto Kali NetHunter traduzido e lite, Kali NetHunt
 
 <a href="https://github.com/Luc4sD3v/NHLite">
 <p align="center">
-  <img src="https://tools.kali.org/wp-content/uploads/2014/01/nethunter-logo-gray-trans.png" />
+  <img src="https://i.pinimg.com/originals/4d/4d/ea/4d4deab401a295b1ff6a39b958ae77b0.png" />
 </p>
 </a>
 
