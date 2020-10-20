@@ -55,12 +55,15 @@ Essa Edição do projeto acompanha com sigo varias IDE's e Editores de Texto, tu
 # Créditos
 
 ## Luca'zz Dev
-Telegram
+#### Telegram
+
 https://t.me/LearnTheSecret
 
-YouTube
+#### YouTube
+
 https://www.youtube.com/channel/UCaCXud9bIap_-84z5bcn_Qg
 
 ## Offensive Security
-Site
+#### Site
+
 https://www.offensive-security.com/
