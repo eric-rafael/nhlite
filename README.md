@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Kali_Linux_Logo.png" />
+  <a href="https://github.com/Luc4sD3v/NHLite" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Kali_Linux_Logo.png" />
 </p>
 
 # NHLite
