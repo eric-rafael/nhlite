@@ -30,11 +30,21 @@ E mesmo a opção mais básica acompanha a Interface Grafica XFCE4.
 
 # NH Lite HOME EDITION
 
+<a href="https://github.com/Luc4sD3v/NHLite">
+<p align="center">
+ <img src=https://i.ibb.co/4tsg81n/image-1.png width="400" height="400"></p>
+</a>
+
 O NH Lite HOME EDITION é uma versão para uso do diario.
 
 Essa Edição do projeto acompanha consigo programas Office, Editores de texto, Editores de Vídeos, Editores de Fotos, Gravador de Tela e Pragramas para Ilustração, acompanhada da Interface Gráfica XFCE4.
 
 # NH Lite PROGRAMMER EDITION
+
+<a href="https://github.com/Luc4sD3v/NHLite">
+<p align="center">
+ <img src=https://i.ibb.co/4tsg81n/image-2.png width="400" height="400"></p>
+</a>
 
 O NH Lite PROGRAMMER EDITION é uma edição exclusiva para programadores e desenvolvedores.
 
