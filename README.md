@@ -19,11 +19,6 @@ O projeto Kali Linux NetHunter é a primeira plataforma de teste de penetração
 
 # NH Lite
 
-<a href="https://github.com/Luc4sD3v/NHLite">
-<p align="center">
- <img src=https://i.ibb.co/vsC6hr1/image.png width="400" height="400"></p>
-</a>
-
 O NH Lite é um projeto cujo o idealizador é o Luca'zz Dev que criou as três diferentes versões do NH Lite.
 O NH Lite é quase completamente traduzido, com apenas alguns pacotes estão em inglês.
 E mesmo a opção mais básica acompanha a Interface Grafica XFCE4.
