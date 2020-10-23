@@ -327,6 +327,5 @@ printf "${green}[+] nh vncserver -kill :1         # Para parar o NH Lite GUI${re
 printf "${green}[+] nh -r                         # Para executar o NH Lite como root${reset}\n"
 printf "${green}[+] nh                            # Atalho para o NH Lite${reset}\n\n"
 printf "${red}[!] Traduzido por Luca'zz Dev${reset}\n"
-printf "${red}[!] Divulgação por HSPCX${reset}\n"
 printf "${red}[!] Script original de Offensive Security${reset}\n"
 echo ""
