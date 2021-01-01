@@ -45,13 +45,13 @@ Essa Edição do projeto acompanha com sigo varias IDE's e Editores de Texto, tu
 
 ## NHLite HOME EDITION
 
-      $ curl -LO https://raw.githubusercontent.com/Luc4sD3v/NHLite/master/NHHOME/NHLite.sh
+      $ curl -LO https://raw.githubusercontent.com/Luc4sD3v/nhlite/master/NHHOME/NHLite.sh
       $ chmod +x NHLite.sh
       $ bash NHLite.sh
 
 ## NHLite PROGRAMMER EDITION
 
-      $ curl -LO https://raw.githubusercontent.com/Luc4sD3v/NHLite/master/NHPROGRAMMER/NHLite.sh
+      $ curl -LO https://raw.githubusercontent.com/Luc4sD3v/nhlite/master/NHPROGRAMMER/NHLite.sh
       $ chmod +x NHLite.sh
       $ bash NHLite.sh
 
