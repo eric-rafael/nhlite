@@ -308,7 +308,7 @@ fix_sudo
 fix_uid
 nh -r sudo apt update
 nh -r sudo apt full-upgrade -y
-nh -r sudo apt install kali-desktop-xfce kali-defaults kali-root-login desktop-base xfce4 xfce4-places-plugin xfce4-goodies tightvncserver -y
+nh -r sudo apt install kali-desktop-xfce kali-defaults kali-root-login desktop-base xfce4 xfce4-places-plugin xfce4-goodies tightvncserver dbus-x11 -y
 nh -r curl -LO https://raw.githubusercontent.com/Luc4sD3v/NHLite/master/xstartup
 nh -r cp xstartup /home/kali/.vnc/
 nh -r mv xstartup /root/.vnc/
